@@ -1,5 +1,6 @@
-# .github/workflows/uploaded-images.yml
+# @ppm-version:1.0
 
+# .github/workflows/uploaded-images.yml
 name: Process Uploaded Images
 
 on:
